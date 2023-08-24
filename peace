@@ -1,2 +1,2 @@
-if gaze=God
-print("peace")
+if gaze==God:
+  print("peace")
